@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/mtk/code/35l/out/target/product/k503c/obj/KERNEL_OBJ/scripts'
+let g:netrw_dirhist_2='/home/mtk/code/35l/out/target/product/k503c/obj/KERNEL_OBJ'
+let g:netrw_dirhist_3='/home/mtk/code/35l/dalvik/hit/src'
+let g:netrw_dirhist_4='/home/mtk/code/k503_driver/mediatek/custom/k503/kernel/touchpanel'
+let g:netrw_dirhist_5='/home/mtk/code/35l/kernel-3.10/sound/soc'
+let g:netrw_dirhist_6='/root/.subversion/auth/svn.username'
+let g:netrw_dirhist_7='/home/mtk/code/35l/vendor/mediatek/proprietary/external/nxp/tfa9890'
